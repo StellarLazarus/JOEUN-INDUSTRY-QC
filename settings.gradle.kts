@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "code_artifact"
+rootProject.name = "JoeunIndustry QC"
 include(":app")
