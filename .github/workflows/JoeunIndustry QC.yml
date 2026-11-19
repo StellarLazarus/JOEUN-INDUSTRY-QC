@@ -17,4 +17,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: joeunindustryQC-Debug-apk
-          path: app/build/outputs/apk/assembleDebug/*.apk
+          path: app/build/outputs/apk/debug/*.apk
