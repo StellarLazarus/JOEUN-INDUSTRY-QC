@@ -6,7 +6,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="JoeunIndustryQC"
+        android:label="조은산업(주) QC ver.2611200246"
         android:usesCleartextTraffic="false"
         
         android:supportsRtl="true"
